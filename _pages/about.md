@@ -13,13 +13,15 @@ I am currently a postdoctoral researcher in the [Cyber-Physical Systems Lab](htt
 
 news
 ======
-# News
 
-| Date       | News Content                                                         |
-|------------|----------------------------------------------------------------------|
-| **2024-09** | Started postdoc at Duke University in the Cyber-Physical Systems Lab. |
-| **2024-05** | Completed PhD at Purdue University, focusing on multi-robot systems.  |
-| **2023-10** | Published a paper on collaborative perception in autonomous driving.  |
+**2024-09**  
+Started postdoc at Duke University in the Cyber-Physical Systems Lab.
+
+**2024-05**  
+Completed PhD at Purdue University, focusing on multi-robot systems.
+
+**2023-10**  
+Published a paper on collaborative perception in autonomous driving.
 
 selected papers
 ======
