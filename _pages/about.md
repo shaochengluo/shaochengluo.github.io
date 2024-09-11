@@ -14,14 +14,9 @@ I am currently a postdoctoral researcher in the [Cyber-Physical Systems Lab](htt
 news
 ======
 
-**2024-09**  
-Started postdoc at Duke University in the Cyber-Physical Systems Lab.
+**2024-01**  Our paper “RadCloud: Real-Time High-Resolution Point Cloud Generation Using Low-Cost Radars for Aerial and Ground Vehicles” is accepted in [ICRA 2024](https://2024.ieee-icra.org/)! Check the [Project Website](https://sites.google.com/view/radcloudduke) for details.
 
-**2024-05**  
-Completed PhD at Purdue University, focusing on multi-robot systems.
-
-**2023-10**  
-Published a paper on collaborative perception in autonomous driving.
+**2024-01**  Our paper “REFORMA: Robust REinFORceMent Learning via Adaptive Adversary for Drones Flying under Disturbances” is accepted in [ICRA 2024](https://2024.ieee-icra.org/)!
 
 selected papers
 ======
