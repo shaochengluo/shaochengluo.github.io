@@ -14,9 +14,9 @@ I am currently a postdoctoral researcher in the [Cyber-Physical Systems Lab](htt
 news
 ======
 
-**2024-01**  Our paper “RadCloud: Real-Time High-Resolution Point Cloud Generation Using Low-Cost Radars for Aerial and Ground Vehicles” is accepted in [ICRA 2024](https://2024.ieee-icra.org/)! Check the [Project Website](https://sites.google.com/view/radcloudduke) for details.
+**2024-01**  Our paper “[RadCloud: Real-Time High-Resolution Point Cloud Generation Using Low-Cost Radars for Aerial and Ground Vehicles](https://arxiv.org/pdf/2403.05964)” is accepted in [ICRA 2024](https://2024.ieee-icra.org/)! Check the [Project Website](https://sites.google.com/view/radcloudduke) for details.
 
-**2024-01**  Our paper “REFORMA: Robust REinFORceMent Learning via Adaptive Adversary for Drones Flying under Disturbances” is accepted in [ICRA 2024](https://2024.ieee-icra.org/)!
+**2024-01**  Our paper “[REFORMA: Robust REinFORceMent Learning via Adaptive Adversary for Drones Flying under Disturbances](https://cpsl.pratt.duke.edu/sites/cpsl.pratt.duke.edu/files/docs/hsu_icra_24.pdf)” is accepted in [ICRA 2024](https://2024.ieee-icra.org/)!
 
 selected papers
 ======
