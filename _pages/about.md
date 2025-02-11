@@ -25,8 +25,8 @@ selected papers
         <iframe width="300" height="169" src="https://www.youtube.com/embed/fJEsAPsx_Mw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="description">
-        <h3>Paper Title 1</h3>
-        <p>Abstract or introduction of Paper 1. <a href="LINK_TO_PAPER_1.pdf">Read the Paper</a> | <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">Watch Video</a></p>
+        <h3>Multi-robot Rendezvous Based on Bearing aided Hierarchical Tracking of Network Topology</h3>
+        <p>Shaocheng Luo, Jonghoek Kim, Ramviyas Parasuraman, Jun Han Bae, Eric T. Matson, Byung-Cheol Min. <a href="LINK_TO_PAPER_1.pdf">Read the Paper</a> | <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">Watch Video</a></p>
     </div>
 </div>
 
