@@ -20,6 +20,17 @@ news
 
 selected papers
 ======
+<div class="paper-wrapper">
+    <div class="video">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="content">
+        <h3>Paper Title 1</h3>
+        <p>Abstract or introduction of Paper 1.</p>
+        <a href="LINK_TO_PAPER_1.pdf" class="btn">Read the Paper</a>
+        <a href="https://www.youtube.com/watch?v=VIDEO_ID_1" class="btn">Watch on YouTube</a>
+    </div>
+</div>
 
 
 
