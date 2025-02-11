@@ -20,15 +20,13 @@ news
 
 selected papers
 ======
-<div class="paper-wrapper">
+<div class="paper-container">
     <div class="video">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="300" height="169" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <div class="content">
+    <div class="description">
         <h3>Paper Title 1</h3>
-        <p>Abstract or introduction of Paper 1.</p>
-        <a href="LINK_TO_PAPER_1.pdf" class="btn">Read the Paper</a>
-        <a href="https://www.youtube.com/watch?v=VIDEO_ID_1" class="btn">Watch on YouTube</a>
+        <p>Abstract or introduction of Paper 1. <a href="LINK_TO_PAPER_1.pdf">Read the Paper</a> | <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">Watch Video</a></p>
     </div>
 </div>
 
@@ -36,23 +34,47 @@ selected papers
 
 
 <style>
-.paper-wrapper {
+.paper-container {
     display: flex;
     align-items: flex-start;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 
-.video iframe {
-    max-width: 100%;
-    height: auto;
+.video {
+    flex: 0 0 auto;
+    width: 300px; /* Adjust width as necessary */
+    height: 169px; /* Adjust height as necessary */
+    margin-right: 20px;
 }
 
-.content {
-    margin-left: 20px;
-    flex-grow: 1;
+.description {
+    flex: 1;
 }
 
-.content h3 {
+.description h3 {
     margin-top: 0;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<style>
+@media (max-width: 768px) {
+    .paper-container {
+        flex-direction: column;
+    }
+
+    .video, .description {
+        width: auto;
+        height: auto;
+    }
+
+    .video {
+        margin-bottom: 10px;
+    }
 }
 </style>
