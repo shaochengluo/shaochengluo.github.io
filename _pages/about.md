@@ -34,3 +34,25 @@ selected papers
 
 
 
+
+<style>
+.paper-wrapper {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.video iframe {
+    max-width: 100%;
+    height: auto;
+}
+
+.content {
+    margin-left: 20px;
+    flex-grow: 1;
+}
+
+.content h3 {
+    margin-top: 0;
+}
+</style>
