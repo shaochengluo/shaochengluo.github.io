@@ -20,7 +20,7 @@ news
 
 selected papers
 ======
-* Co-first author with equal contribution; # Corresponding author.
+\* Co-first author with equal contribution; \# Corresponding author.
 <div class="paper-container">
     <div class="video">
         <iframe width="300" height="169" src="https://www.youtube.com/embed/fJEsAPsx_Mw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
