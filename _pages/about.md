@@ -82,7 +82,7 @@ Mauricio Postigo-Malaga, Edgar Gonzales Zenteno, Lizbeth Paredes Aguilar, and By
     </div>
     <div class="description">
         <h3> Computer Vision-based Algae Removal Planner for Multi-robot Teams</h3>
-        <p>  Manoj Penmetcha*, Shaocheng Luo*, Arabinda Samantaray*, J. Eric Dietz, Baijian Yang and Byung-Cheol Min <br>
+        <p>  Manoj Penmetcha*, <strong>Shaocheng Luo</strong>*, Arabinda Samantaray*, J. Eric Dietz, Baijian Yang and Byung-Cheol Min <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/8913967"><strong><em>  IEEE SMC Conference 2019 </em></strong> </a> <br>
         <a href="files/Computer Vision-based Algae Removal Planner for Multi-robot Teams.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=bBPMFwSzHz0">Video</a></p>
     </div>
