@@ -26,7 +26,7 @@ selected papers
     </div>
     <div class="description">
         <h3> Multi-robot Rendezvous Based on Bearing aided Hierarchical Tracking of Network Topology</h3>
-        <p> <strong>Shaocheng Luo<\strong>, Jonghoek Kim, Ramviyas Parasuraman, Jun Han Bae, Eric T. Matson, and Byung-Cheol Min <br>
+        <p> Shaocheng Luo, Jonghoek Kim, Ramviyas Parasuraman, Jun Han Bae, Eric T. Matson, and Byung-Cheol Min <br>
         <a href="https://www.sciencedirect.com/science/article/pii/S1570870518301100"><strong><em>Ad Hoc Networks 2018</em></strong> </a> <br>
         <a href="files/Multi-robot rendezvous based on bearing-aided hierarchical tracking of network topology.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=fJEsAPsx_Mw">Watch Video</a></p>
     </div>
@@ -40,7 +40,7 @@ selected papers
     </div>
     <div class="description">
         <h3> "Asymptotic Boundary Shrink Control with Multirobot Systems </h3>
-        <p> <****>Shaocheng Luo<\strong>, Jonghoek Kim, and Byung-Cheol Min <br>
+        <p> Shaocheng Luo, Jonghoek Kim, and Byung-Cheol Min <br>
         <a href="https://ieeexplore.ieee.org/document/9136732"><strong><em> IEEE Transactions on Systems, Man, and Cybernetics: Systems 2022 </em></strong> </a> <br>
         <a href="files/Asymptotic Boundary Shrink Control with Multi-robot Systems.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=XUrKICAk4SQ">Video</a></p>
     </div>
@@ -54,7 +54,7 @@ selected papers
     </div>
     <div class="description">
         <h3> "Multipoint Rendezvous in Multirobot Systems </h3>
-        <p> Ramviyas Parasuraman, Jonghoek Kim, <b>Shaocheng Luo</b>, and Byung-Cheol Min <br>
+        <p> Ramviyas Parasuraman, Jonghoek Kim, <strong>Shaocheng Luo</strong>, and Byung-Cheol Min <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/8472798"><strong><em> IEEE Transactions on Cybernetics 2020 </em></strong> </a> <br>
         <a href="files/Multipoint Rendezvous in Multirobot Systems.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=uaiCnw79Sb8">Video</a></p>
     </div>
@@ -68,7 +68,7 @@ selected papers
     </div>
     <div class="description">
         <h3> "Multipoint Rendezvous in Multirobot Systems </h3>
-        <p> Ramviyas Parasuraman, Jonghoek Kim, <b>Shaocheng Luo</b>, and Byung-Cheol Min <br>
+        <p> Ramviyas Parasuraman, Jonghoek Kim, Shaocheng Luo, and Byung-Cheol Min <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/8472798"><strong><em> IEEE Transactions on Cybernetics 2020 </em></strong> </a> <br>
         <a href="files/Multipoint Rendezvous in Multirobot Systems.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=uaiCnw79Sb8">Video</a></p>
     </div>
@@ -82,7 +82,7 @@ selected papers
     </div>
     <div class="description">
         <h3> "Development of an Unmanned Surface Vehicle for Remote Sediment Sampling with a Van Veen Grab Sampler</h3>
-        <p> Jun Han Bae, <b>Shaocheng Luo</b>, Shyam Sundar Kannan, Yogang Singh, Bumjoo Lee, Richard M. Voyles,
+        <p> Jun Han Bae, Shaocheng Luo, Shyam Sundar Kannan, Yogang Singh, Bumjoo Lee, Richard M. Voyles,
 Mauricio Postigo-Malaga, Edgar Gonzales Zenteno, Lizbeth Paredes Aguilar, and Byung-Cheol Min <br>
         <a href="https://ieeexplore.ieee.org/document/8962837"><strong><em> IEEE OCEANS Seattle 2019 </em></strong> </a> <br>
         <a href="files/Development of an Unmanned Surface Vehiclefor Remote Sediment Sampling with a Van Veen Grab Sampler.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=YwTirVChu7g">Video</a></p>
@@ -96,7 +96,7 @@ Mauricio Postigo-Malaga, Edgar Gonzales Zenteno, Lizbeth Paredes Aguilar, and By
     </div>
     <div class="description">
         <h3> "Computer Vision-based Algae Removal Planner for Multi-robot Teams</h3>
-        <p>  Manoj Penmetcha*, <b>Shaocheng Luo*</b>, Arabinda Samantaray*, J. Eric Dietz, Baijian Yang and Byung-Cheol Min <br>
+        <p>  Manoj Penmetcha*, Shaocheng Luo*, Arabinda Samantaray*, J. Eric Dietz, Baijian Yang and Byung-Cheol Min <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/8913967"><strong><em>  IEEE SMC Conference 2019 </em></strong> </a> <br>
         <a href="files/Computer Vision-based Algae Removal Planner for Multi-robot Teams.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=bBPMFwSzHz0">Video</a></p>
     </div>
