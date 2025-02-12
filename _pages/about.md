@@ -26,19 +26,14 @@ selected papers
     </div>
     <div class="description">
         <h3> Multi-robot Rendezvous Based on Bearing aided Hierarchical Tracking of Network Topology</h3>
-        <p> Shaocheng Luo, Jonghoek Kim, Ramviyas Parasuraman, Jun Han Bae, Eric T. Matson, Byung-Cheol Min </p>
-        <p> <a href="https://www.sciencedirect.com/science/article/pii/S1570870518301100"><strong><em>Ad Hoc Networks 2018</em></strong> </a></p>
-        <p> <a href="files/Multi-robot rendezvous based on bearing-aided hierarchical tracking of network topology.pdf">Read the Paper</a> | <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">Watch Video</a></p>
+        <p> Shaocheng Luo, Jonghoek Kim, Ramviyas Parasuraman, Jun Han Bae, Eric T. Matson, Byung-Cheol Min <br>
+        <a href="https://www.sciencedirect.com/science/article/pii/S1570870518301100"><strong><em>Ad Hoc Networks 2018</em></strong> </a> <br>
+        <a href="files/Multi-robot rendezvous based on bearing-aided hierarchical tracking of network topology.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">Watch Video</a></p>
     </div>
 </div>
 
 
-<style>
-    p {
-        margin-top: 0;
-        margin-bottom: 5px; /* adjust the value to suit your needs */
-    }
-</style>
+
 
 <style>
 .paper-container {
