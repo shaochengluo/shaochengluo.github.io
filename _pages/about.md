@@ -21,6 +21,35 @@ news
 selected papers
 ======
 \* Co-first author with equal contribution; \# Corresponding author.
+
+
+<div class="paper-container">
+    <div class="video">
+        <iframe width="300" height="169" src="https://www.youtube.com/embed/qdBPnoc3VBA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="description">
+        <h3> RadCloud: Real-Time High-Resolution Point Cloud Generation Using Low-Cost Radars for Aerial and Ground Vehicles </h3>
+        <p>  David Hunt, <strong>Shaocheng Luo</strong>, Amir Khazraei, Xiao Zhang, Spencer Hallyburton, Tingjun Chen, and Miroslav Pajic<br>
+        <a href="https://ieeexplore.ieee.org/document/10610839"><strong><em>  IEEE ICRA 2024 </em></strong> </a> <br>
+        <a href="files/RadCloud_Real-Time_High-Resolution_Point_Cloud_Generation_Using_Low-Cost_Radars_for_Aerial_and_Ground_Vehicles.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=qdBPnoc3VBA">Video</a></p>
+    </div>
+</div>
+
+
+<div class="paper-container">
+    <div class="video">
+        <iframe width="300" height="169" src="https://www.youtube.com/embed/ITWbl1Pb_3A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="description">
+        <h3> Pivot-based Collective Coverage Control with a Multi-robot Team</h3>
+        <p>  <strong>Shaocheng Luo</strong>, Jun Han Bae, and Byung-Cheol Min<br>
+        <a href="https://ieeexplore.ieee.org/document/8665128"><strong><em>  IEEE ROBIO 2018 </em></strong> </a> <br>
+        <a href="files/Pivot-based  Collective  Coverage  Control  with  a  Multi-robot  Team.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=ITWbl1Pb_3A">Video</a></p>
+    </div>
+</div>
+
+
+
 <div class="paper-container">
     <div class="video">
         <iframe width="300" height="169" src="https://www.youtube.com/embed/fJEsAPsx_Mw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
