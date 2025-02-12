@@ -39,7 +39,7 @@ selected papers
         <iframe width="300" height="169" src="https://www.youtube.com/embed/XUrKICAk4SQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="description">
-        <h3> "Asymptotic Boundary Shrink Control with Multirobot Systems </h3>
+        <h3> Asymptotic Boundary Shrink Control with Multirobot Systems </h3>
         <p> <strong>Shaocheng Luo</strong>, Jonghoek Kim, and Byung-Cheol Min <br>
         <a href="https://ieeexplore.ieee.org/document/9136732"><strong><em> IEEE Transactions on Systems, Man, and Cybernetics: Systems 2022 </em></strong> </a> <br>
         <a href="files/Asymptotic Boundary Shrink Control with Multi-robot Systems.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=XUrKICAk4SQ">Video</a></p>
@@ -67,7 +67,7 @@ selected papers
         <iframe width="300" height="169" src="https://www.youtube.com/embed/YwTirVChu7g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="description">
-        <h3> "Development of an Unmanned Surface Vehicle for Remote Sediment Sampling with a Van Veen Grab Sampler</h3>
+        <h3> Development of an Unmanned Surface Vehicle for Remote Sediment Sampling with a Van Veen Grab Sampler</h3>
         <p> Jun Han Bae, <strong>Shaocheng Luo</strong>, Shyam Sundar Kannan, Yogang Singh, Bumjoo Lee, Richard M. Voyles,
 Mauricio Postigo-Malaga, Edgar Gonzales Zenteno, Lizbeth Paredes Aguilar, and Byung-Cheol Min <br>
         <a href="https://ieeexplore.ieee.org/document/8962837"><strong><em> IEEE OCEANS Seattle 2019 </em></strong> </a> <br>
@@ -81,7 +81,7 @@ Mauricio Postigo-Malaga, Edgar Gonzales Zenteno, Lizbeth Paredes Aguilar, and By
         <iframe width="300" height="169" src="https://www.youtube.com/embed/bBPMFwSzHz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="description">
-        <h3> "Computer Vision-based Algae Removal Planner for Multi-robot Teams</h3>
+        <h3> Computer Vision-based Algae Removal Planner for Multi-robot Teams</h3>
         <p>  Manoj Penmetcha*, <strong>Shaocheng Luo</strong>*, Arabinda Samantaray*, J. Eric Dietz, Baijian Yang and Byung-Cheol Min <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/8913967"><strong><em>  IEEE SMC Conference 2019 </em></strong> </a> <br>
         <a href="files/Computer Vision-based Algae Removal Planner for Multi-robot Teams.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=bBPMFwSzHz0">Video</a></p>
