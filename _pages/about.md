@@ -26,7 +26,7 @@ selected papers
     </div>
     <div class="description">
         <h3> Multi-robot Rendezvous Based on Bearing aided Hierarchical Tracking of Network Topology</h3>
-        <p> <b>Shaocheng Luo<\b>, Jonghoek Kim, Ramviyas Parasuraman, Jun Han Bae, Eric T. Matson, and Byung-Cheol Min <br>
+        <p> <strong>Shaocheng Luo<\strong>, Jonghoek Kim, Ramviyas Parasuraman, Jun Han Bae, Eric T. Matson, and Byung-Cheol Min <br>
         <a href="https://www.sciencedirect.com/science/article/pii/S1570870518301100"><strong><em>Ad Hoc Networks 2018</em></strong> </a> <br>
         <a href="files/Multi-robot rendezvous based on bearing-aided hierarchical tracking of network topology.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=fJEsAPsx_Mw">Watch Video</a></p>
     </div>
@@ -40,7 +40,7 @@ selected papers
     </div>
     <div class="description">
         <h3> "Asymptotic Boundary Shrink Control with Multirobot Systems </h3>
-        <p> <b>Shaocheng Luo<\b>, Jonghoek Kim, and Byung-Cheol Min <br>
+        <p> <****>Shaocheng Luo<\strong>, Jonghoek Kim, and Byung-Cheol Min <br>
         <a href="https://ieeexplore.ieee.org/document/9136732"><strong><em> IEEE Transactions on Systems, Man, and Cybernetics: Systems 2022 </em></strong> </a> <br>
         <a href="files/Asymptotic Boundary Shrink Control with Multi-robot Systems.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=XUrKICAk4SQ">Video</a></p>
     </div>
