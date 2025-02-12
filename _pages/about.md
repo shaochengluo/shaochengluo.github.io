@@ -38,13 +38,13 @@ selected papers
 
 <div class="paper-container">
     <div class="video">
-        <iframe width="300" height="169" src="https://www.youtube.com/embed/ITWbl1Pb_3A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="300" height="169" src="https://www.youtube.com/embed/kxD5JIT6vbk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="description">
-        <h3> Pivot-based Collective Coverage Control with a Multi-robot Team</h3>
-        <p>  <strong>Shaocheng Luo</strong>, Jun Han Bae, and Byung-Cheol Min<br>
-        <a href="https://ieeexplore.ieee.org/document/8665128"><strong><em>  IEEE ROBIO 2018 </em></strong> </a> <br>
-        <a href="files/Pivot-based  Collective  Coverage  Control  with  a  Multi-robot  Team.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=ITWbl1Pb_3A">Video</a></p>
+        <h3> REFORMA: Robust REinFORceMent Learning via Adaptive Adversary for Drones Flying under Disturbances </h3>
+        <p>  Hao-Lun Hsu, Haocheng Meng, <strong>Shaocheng Luo</strong>, Juncheng Dong, Vahid Tarokh, and Miroslav Pajic Min<br>
+        <a href="https://ieeexplore.ieee.org/document/8665128"><strong><em>  IEEE ICRA 2024 </em></strong> </a> <br>
+        <a href="files/REFORMA_Robust_REinFORceMent_Learning_via_Adaptive_Adversary_for_Drones_Flying_under_Disturbances.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=kxD5JIT6vbk">Video</a></p>
     </div>
 </div>
 
