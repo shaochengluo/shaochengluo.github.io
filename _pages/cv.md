@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-## Curriculum Vitae
 [Download CV](files/Shaocheng_Luo_CV.pdf){: .btn}
 
 
