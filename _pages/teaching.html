@@ -5,8 +5,71 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Teaching Experience</title>
+    <style>
+        .experience {
+            margin-bottom: 20px;
+            font-family: Arial, sans-serif;
+        }
+        .course-title {
+            font-weight: bold;
+            color: navy;
+        }
+        .institution {
+            margin-bottom: 5px;
+        }
+        .details {
+            margin-left: 20px;
+        }
+        .link {
+            color: blue;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="experience">
+        <div class="course-title">CNIT 161: Introduction to Programming and Data Management for Smart Manufacturing (Sole Instructor)</div>
+        <div class="institution">Dept of Computer and Information Technology, Purdue, West Lafayette</div>
+        <ul class="details">
+            <li>Python and SQL languages are introduced as a combination in this course, for the purpose of database operations.</li>
+            <li>Methodologies such as data analysis and business status investigation are introduced and practiced in the scenario of manufacturing.</li>
+            <li><a href="LINK_TO_PHOTO" class="link">View Class Photo</a></li>
+        </ul>
+    </div>
+    <div class="experience">
+        <div class="course-title">CNIT 105: Introduction to C Programming Language (Lab Instructor)</div>
+        <div class="institution">Fall 2019, Spring 2019, Fall 2018, Spring 2018, Fall 2017, Dept of Computer and Information Technology, Purdue, West Lafayette, Supervisor: Prof. Guity Ravai</div>
+        <ul class="details">
+            <li>Average Course Evaluation: 4.6/5.0 (Department Average: 3.0/5.0); Sessions taught per semester: 4; Average number of students per session: 25.</li>
+            <li>Designed inlabs, weekly assignments, and exams.</li>
+            <li>Was the first one who introduced debugging exercise to students in lab sessions, and got tremendous positive feedback.</li>
+            <li>Instructed 6 undergrad lab helpers, because we sometimes recruit a few lab helpers from previous students to provide more immediate response and assistance for new students.</li>
+            <li><a href="LINK_TO_PHOTO" class="link">View Lab Photo</a></li>
+        </ul>
+    </div>
+    <div class="experience">
+        <div class="course-title">STEM Academic Boot Camp: Introduction to Computer Programming (Sole Instructor)</div>
+        <div class="institution">Summer 2019, Polytechnic Institute, Purdue, West Lafayette, Coordinator: Ms. Antonia Munguia</div>
+        <ul class="details">
+            <li>This is the course created in Purdue to support the education of first-year college students from underrepresented socioeconomic regions and communities and women in the STEM field.</li>
+            <li>This course met every working day for 1.5 hours and lasted for five weeks. I designed the lectures, labs, and exams.</li>
+            <li><a href="LINK_TO_PHOTO" class="link">View Boot Camp Photo</a></li>
+        </ul>
+    </div>
+    <div class="experience">
+        <div class="course-title">Introduction to Microprocessors (Sole Instructor)</div>
+        <div class="institution">Fall 2016, SMART Lab, Purdue, West Lafayette, Supervisor: Dr. Byung-Cheol Min</div>
+        <ul class="details">
+            <li>This is an eight-week long seminar based course for SMART Lab members, including junior PhDs, Masters, and Undergrads, to help them gain knowledge in microprocessors and their applications in Robotics.</li>
+            <li>I designed the course and labs, with a specific topic every week on the structure of microprocessor, hardware utilities, communication mechanism and protocols, sensor reading, motion control, etc.</li>
+            <li><a href="LINK_TO_PHOTO" class="link">View Seminar Photo</a></li>
+        </ul>
+    </div>
+</body>
+</html>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
