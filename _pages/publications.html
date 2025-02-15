@@ -9,28 +9,21 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
+<div>
+  {{ "[1] **Shaocheng Luo**, Jonghoek Kim, and Byung-Cheol Min, “Asymptotic Boundary Shrink Control with Multi-robot Systems”, IEEE Transactions on Systems, Man, and Cybernetics: Systems. Vol. 52 (1), 591-605, 2020." | markdownify }}
+</div>
+<div>
+  {{ "[2] Ramviyas Parasuraman, Jonghoek Kim, **Shaocheng Luo**, and Byung-Cheol Min, “Multi-Point Rendezvous in Multi-Robot Systems”, IEEE Transactions on Cybernetics, Vol. 50 (1), pp. 310-323, 2020." | markdownify }}
+</div>
+<div>
+  {{ "[3] **Shaocheng Luo**, Jonghoek Kim, Ramviyas Parasuraman, Jun Han Bae, Eric T Matson, and Byung-Cheol Min, “Multi-robot Rendezvous Based on Bearing-aided Hierarchical Tracking of Network Topology”, Ad Hoc Networks, Vol 86, pp. 131-143, 2019." | markdownify }}
+</div>
+<div>
+  {{ "[4] Xinglai Jin, Shiqiang Zhu, Wenxiang Wu, and **Shaocheng Luo**, “A Novel Robotic Motion Control Strategy Based on Improved Fuzzy PID and Feedforward Compensation”, Applied Mechanics and Materials, Vol. 365-366, pp. 821-826, 2013." | markdownify }}
+</div>
+<div>
+  {{ "[5] **Shaocheng Luo**, Shiqiang Zhu, and Huifang Wang, “Adaptive PID saturate output feedback control of robot manipulators”, Transducer and Microsystem Technologies (Chinese), Vol. 31 (3), pp. 66-70, 2012." | markdownify }}
+</div>
 
 
