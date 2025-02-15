@@ -26,10 +26,15 @@ author_profile: true
         .details {
             margin-left: 20px;
         }
-        img {
-            width: 300px; /* Adjust based on your layout needs */
-            height: auto;
-            margin-top: 10px;
+        .image-row {
+            display: flex; /* This will layout the children (images) in a row */
+            justify-content: space-around; /* This will space the images nicely in the container */
+            align-items: center; /* This will align images vertically center */
+        }
+        .image-row img {
+            max-width: 50%; /* Maximum width for each image */
+            height: auto; /* Maintain aspect ratio */
+            margin: 5px; /* Adds a little space around images */
         }
     </style>
 </head>
@@ -41,7 +46,11 @@ author_profile: true
             <li>Python and SQL languages are introduced as a combination in this course, for the purpose of database operations.</li>
             <li>Methodologies such as data analysis and business status investigation are introduced and practiced in the scenario of manufacturing.</li>
         </ul>
-        <img src="https://github.com/shaochengluo/shaochengluo.github.io/blob/master/images/IMG_4201.JPG?raw=true" alt="Class Photo for CNIT 161">
+        <div class="image-row">
+            <img src="https://github.com/shaochengluo/shaochengluo.github.io/blob/master/images/IMG_4201.JPG?raw=true" alt="Class Photo for CNIT 161">
+            <img src="images/cnit161_2.jpg" alt="Another Class Photo for CNIT 161">
+            <img src="images/cnit161_3.jpg" alt="Further Class Photo for CNIT 161">
+        </div>
     </div>
     <div class="experience">
         <div class="course-title">CNIT 105: Introduction to C Programming Language (Lab Instructor)</div>
@@ -52,7 +61,7 @@ author_profile: true
             <li>Introduced debugging exercises, receiving tremendous positive feedback.</li>
             <li>Instructed 6 undergrad lab helpers for more immediate response and assistance to new students.</li>
         </ul>
-        <img src="images/cnit105.JPG" alt="Lab Photo for CNIT 105">
+        <img src="https://github.com/shaochengluo/shaochengluo.github.io/blob/master/images/IMG_4205.JPG?raw=true" alt="Lab Photo for CNIT 105">
     </div>
     <div class="experience">
         <div class="course-title">STEM Academic Boot Camp: Introduction to Computer Programming (Sole Instructor)</div>
