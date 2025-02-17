@@ -81,7 +81,7 @@ selected papers
         <h3> Multi-robot Rendezvous Based on Bearing aided Hierarchical Tracking of Network Topology</h3>
         <p> <strong>Shaocheng Luo</strong>, Jonghoek Kim, Ramviyas Parasuraman, Jun Han Bae, Eric T. Matson, and Byung-Cheol Min <br>
         <a href="https://www.sciencedirect.com/science/article/pii/S1570870518301100"><strong><em>Ad Hoc Networks 2018</em></strong> </a> <br>
-        <a href="files/Multi-robot rendezvous based on bearing-aided hierarchical tracking of network topology.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=fJEsAPsx_Mw">Watch Video</a></p>
+        <a href="files/Multi-robot rendezvous based on bearing-aided hierarchical tracking of network topology.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=fJEsAPsx_Mw">Video</a></p>
     </div>
 </div>
 
