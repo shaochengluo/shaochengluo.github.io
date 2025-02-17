@@ -25,6 +25,18 @@ selected papers
 
 <div class="paper-container">
     <div class="video">
+        <iframe width="300" height="169" src="https://www.youtube.com/embed/eIT7hraeKRw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="description">
+        <h3> MARS: Defending Unmanned Aerial Vehicles From Attacks on Inertial Sensors with Model-based Anomaly Detection and Recovery </h3>
+        <p>  Haocheng Meng,  <strong>Shaocheng Luo</strong>, Zhenyuan Liang, Qing Huang, Amir Khazraei, and Miroslav Pajic<br>
+        <a href="https://ieeexplore.ieee.org"><strong><em>  USENIX 2025 (Under review) </em></strong> </a> <br>
+        <a href="files/">Paper (to be available on arXiv)</a> | <a href="https://sites.google.com/view/mars-uav-recovery/home">Website</a></p>
+    </div>
+</div>
+
+<div class="paper-container">
+    <div class="video">
         <iframe width="300" height="169" src="https://www.youtube.com/embed/qdBPnoc3VBA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="description">
