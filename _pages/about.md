@@ -22,6 +22,17 @@ selected papers
 ======
 \* Co-first author with equal contribution; \# Corresponding author.
 
+<div class="paper-container">
+    <div class="video">
+        <iframe width="300" height="169" src="https://www.youtube.com/embed/AlukR3mgNWE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="description">
+        <h3> RadNav: mmWave Radar-based Localization and Navigation for Unmanned Ground Vehicles in Complex Indoor Environments </h3>
+        <p>  David Hunt*,  <strong>Shaocheng Luo</strong>*, Spencer Hallyburton, Yi Li, Ray Hoggard, Aarav Ryan, Tingjun Chen, and Miroslav Pajic <br>
+        <a href="https://ieeexplore.ieee.org"><strong><em>  IROS 2025 (In submission) </em></strong> </a> <br>
+        <a href="files/">Paper (to be available on arXiv)</a> </p>
+    </div>
+</div>
 
 <div class="paper-container">
     <div class="video">
@@ -43,7 +54,7 @@ selected papers
         <h3> RadCloud: Real-Time High-Resolution Point Cloud Generation Using Low-Cost Radars for Aerial and Ground Vehicles </h3>
         <p>  David Hunt, <strong>Shaocheng Luo</strong>, Amir Khazraei, Xiao Zhang, Spencer Hallyburton, Tingjun Chen, and Miroslav Pajic<br>
         <a href="https://ieeexplore.ieee.org/document/10610839"><strong><em>  IEEE ICRA 2024 </em></strong> </a> <br>
-        <a href="files/RadCloud_Real-Time_High-Resolution_Point_Cloud_Generation_Using_Low-Cost_Radars_for_Aerial_and_Ground_Vehicles.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=qdBPnoc3VBA">Video</a></p>
+        <a href="files/RadCloud_Real-Time_High-Resolution_Point_Cloud_Generation_Using_Low-Cost_Radars_for_Aerial_and_Ground_Vehicles.pdf">Paper</a> | <a href="https://sites.google.com/view/radcloudduke">Website</a></p> | <a href="https://github.com/davidmhunt/RadCloud">Code</a></p>
     </div>
 </div>
 
