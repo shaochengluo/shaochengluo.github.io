@@ -27,10 +27,10 @@ selected papers
         <iframe width="300" height="169" src="https://www.youtube.com/embed/AlukR3mgNWE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="description">
-        <h3> RadNav: mmWave Radar-based Localization and Navigation for Unmanned Ground Vehicles in Complex Indoor Environments </h3>
-        <p>  David Hunt*,  <strong>Shaocheng Luo</strong>*, Spencer Hallyburton, Yi Li, Ray Hoggard, Aarav Ryan, Tingjun Chen, and Miroslav Pajic <br>
-        <a href="https://ieeexplore.ieee.org"><strong><em>  IROS 2025 (In submission) </em></strong> </a> <br>
-        <a href="files/">Paper (to be available on arXiv)</a> </p>
+        <h3> RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles </h3>
+        <p>  David Hunt*,  <strong>Shaocheng Luo</strong>*, Spencer Hallyburton, Shafii Nillongo, Yi Li, Tingjun Chen, and Miroslav Pajic <br>
+        <a href="https://ieeexplore.ieee.org"><strong><em>  IROS 2025 (Accepted) </em></strong> </a> <br>
+        <a href="files/RaGNNarok- A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles.pdf">Paper</a> </p>
     </div>
 </div>
 
@@ -42,7 +42,7 @@ selected papers
         <h3> MARS: Defending Unmanned Aerial Vehicles From Attacks on Inertial Sensors with Model-based Anomaly Detection and Recovery </h3>
         <p>  Haocheng Meng,  <strong>Shaocheng Luo</strong>, Zhenyuan Liang, Qing Huang, Amir Khazraei, and Miroslav Pajic<br>
         <a href="https://ieeexplore.ieee.org"><strong><em>  USENIX 2025 (Under review) </em></strong> </a> <br>
-        <a href="files/">Paper (to be available on arXiv)</a> | <a href="https://sites.google.com/view/mars-uav-recovery/home">Website</a></p>
+        <a href="files/MARS- Defending Unmanned Aerial Vehicles From Attacks on Inertial Sensors with Model-based Anomaly Detection and Recovery.pdf">Paper</a> | <a href="https://sites.google.com/view/mars-uav-recovery/home">Website</a></p>
     </div>
 </div>
 
